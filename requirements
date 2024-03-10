@@ -1,0 +1,24 @@
+create a registration page for the following:
+        - unique name
+        - mpesa first name
+        - mpesa phone number
+
+// Store the data in a json file  DONE
+
+create a quick search bar tool :
+        - unique name
+        - mpesa first name
+        - mpesa phone number    done
+
+integrate the list with the backend.js  done
+
+After order prompt user for the number /name /unique  done
+
+Carry on with the normal progam flow  done
+
+
+
+//////////
+KNOW THE FOLLOWING 
+- Accessing data in a json file
+- Creating a search bar tool that is spawned after the quantity is prompted
